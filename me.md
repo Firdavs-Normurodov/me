@@ -2,7 +2,6 @@
 ## hi my name Firdavs Normurodov . I'm 20 years old and i'm developer.
 
 - create a website
-- footbool
 - language learning
 - films
 
